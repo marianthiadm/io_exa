@@ -1,3 +1,12 @@
 #header{
     background-color: aqua;
 }
+#menu{
+    background-color: tomato;
+}
+#content{
+    background-color: white;
+}
+#footer{
+    background-color: lightgray;
+}
